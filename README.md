@@ -11,7 +11,7 @@
 
 <div align="center">
 	
-☁ [View More](https://project-wylie.vercel.app/) ☁
+☁ [Visit Site](https://project-wylie.vercel.app/) ☁
 
 </div>
 
