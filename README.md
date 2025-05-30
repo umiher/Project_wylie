@@ -7,7 +7,13 @@
 
 <image width="100%" src="main.png"></image>
 
-📄 View : https://project-wylie.vercel.app/
+<br>
+
+<div align="center">
+	
+☁ [View More](https://project-wylie.vercel.app/) ☁
+
+</div>
 
 <br>
 <br>
